@@ -1,4 +1,4 @@
-# Previs-o_de_Inten-o_de_Compra_de_Clientes_em_Loja_Web# Previsão da Intenção de Compra Online
+# Previsão da Intenção de Compra Online
 
 ## Descrição do Projeto
 
